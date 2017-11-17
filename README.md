@@ -30,7 +30,7 @@ def cypher(txt):
 
                 # Now, use this mirrored index to set the mirrored character
                 # in the encoded string. Letters that can't be mirrored
-                # simply stay the same in the cypher
+                # (g and v) simply stay the same in the cypher
                 code[i] = ab[x]
                 
     return "".join(code)
