@@ -1,6 +1,8 @@
 # mirror-cypher
 Decode and encode secret messages!
 
+Try it out. Encode a secret message with it, and send it to a friend to see if they can figure out how to decode it! (If they need a hint, tell them to look at their keyboard and imagine it was a mirror from left to right.)
+
 ```python
 # An encoding/decoding cypher algorithm
 # That acts as if your keyboard buttons have been mirrored in place!
