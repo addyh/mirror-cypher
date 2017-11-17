@@ -25,7 +25,7 @@ def cypher(txt):
 
                 # Subtracting the index of the matching letter in the alphabet
                 # from the length of the alphabet string minus one (23)
-                # gives us the mirroring index cypher value
+                # gives us the mirrored index of the character
                 x = (23 - j)
 
                 # Now, use this mirrored index to set the mirrored character
