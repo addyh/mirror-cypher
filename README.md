@@ -1,5 +1,5 @@
 # mirror-cypher
-Decode and encode secret messages!
+### Decode and encode secret messages!
 
 Try it out. Encode a secret message with it, and send it to a friend to see if they can figure out how to decode it! (If they need a hint, tell them to look at their keyboard and imagine it was mirrored from left-to-right down the middle.)
 
